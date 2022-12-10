@@ -1,0 +1,8 @@
+.table_scroll{
+    width: 600px;
+    height: 100px;
+    overflow-y: scroll;
+    overflow-x: none;
+    margin-top: 20%;
+    margin-left: 20%;
+}
